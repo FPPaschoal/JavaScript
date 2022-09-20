@@ -1,0 +1,36 @@
+body{
+
+    background-color: rgb(231, 183, 110);
+
+}
+
+
+#Bloco{
+    background-color: rgb(157, 90, 224);
+    padding: 20px;
+    border-radius: 5%;
+    margin: auto;
+    width: 200px;
+}
+
+h3{
+    font-size: 25px;
+    margin: 10px;
+}
+
+.input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+button{
+
+text-align: right;
+
+}
+
+#resposta{
+    display:none;
+
+}
